@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ehealth/static/css/main.a70f9114.chunk.css",
+    "main.js": "/ehealth/static/js/main.e602d98b.chunk.js",
+    "main.js.map": "/ehealth/static/js/main.e602d98b.chunk.js.map",
+    "runtime-main.js": "/ehealth/static/js/runtime-main.3428804c.js",
+    "runtime-main.js.map": "/ehealth/static/js/runtime-main.3428804c.js.map",
+    "static/css/2.31ff0196.chunk.css": "/ehealth/static/css/2.31ff0196.chunk.css",
+    "static/js/2.97965543.chunk.js": "/ehealth/static/js/2.97965543.chunk.js",
+    "static/js/2.97965543.chunk.js.map": "/ehealth/static/js/2.97965543.chunk.js.map",
+    "static/js/3.3e9efc46.chunk.js": "/ehealth/static/js/3.3e9efc46.chunk.js",
+    "static/js/3.3e9efc46.chunk.js.map": "/ehealth/static/js/3.3e9efc46.chunk.js.map",
+    "index.html": "/ehealth/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/ehealth/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.a70f9114.chunk.css.map": "/ehealth/static/css/main.a70f9114.chunk.css.map",
+    "static/js/2.97965543.chunk.js.LICENSE.txt": "/ehealth/static/js/2.97965543.chunk.js.LICENSE.txt",
+    "static/media/0ehealth.c247a81f.png": "/ehealth/static/media/0ehealth.c247a81f.png",
+    "static/media/1ehealth.a747c763.png": "/ehealth/static/media/1ehealth.a747c763.png",
+    "static/media/2ehealth.3da53ed0.png": "/ehealth/static/media/2ehealth.3da53ed0.png",
+    "static/media/3ehealth.301dc4b9.png": "/ehealth/static/media/3ehealth.301dc4b9.png",
+    "static/media/4ehealth.46a87fc0.png": "/ehealth/static/media/4ehealth.46a87fc0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3428804c.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.97965543.chunk.js",
+    "static/css/main.a70f9114.chunk.css",
+    "static/js/main.e602d98b.chunk.js"
+  ]
+}
